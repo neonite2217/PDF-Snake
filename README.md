@@ -27,7 +27,7 @@ Make sure the input field is focused!
 
 ## 📷 Preview
 
-![demo](preview.gif) 
+![demo](preview1.png) 
 
 ## 📄 Credits
 
