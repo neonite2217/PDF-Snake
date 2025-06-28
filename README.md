@@ -27,7 +27,11 @@ Make sure the input field is focused!
 
 ## 📷 Preview
 
-![demo](preview1.png) 
+![demo]
+<p float="left">
+  <img src="./preview%201.png" />
+  <img src="preview2.png" />
+</p>
 
 ## 📄 Credits
 
