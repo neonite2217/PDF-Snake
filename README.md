@@ -12,8 +12,7 @@ Inspired by the brilliant [Tetris in a PDF](https://th0mas.nl/2025/01/12/tetris-
 > **Note:** Works best in Chromium-based PDF viewers (PDFium) and Firefox (PDF.js). Not guaranteed to work in Adobe Acrobat or other viewers.
 
 ## How to run?
-compile and run the snake_game.py to generate the game pdf
-or simply download it from the repo 
+compile and run the snake_game.py to generate the game pdf or simply download it from the repo 
 
 ## 🎮 Controls
 
